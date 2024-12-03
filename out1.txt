@@ -1,0 +1,6 @@
+1cm=0.01metre
+1metre=100.0cm
+1km=0.625miles
+1miles=1.6km
+1USD=84.0INR
+1INR=0.011904761904761904USD
